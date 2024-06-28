@@ -21,7 +21,7 @@
 
 ### 📫 Redes Sociais
 
-<div style="display: flex; gap: 15px;">
+<div style="display: flex;">
     <a href="https://www.instagram.com/herbertg1010/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
