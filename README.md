@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Herbert Gabriel ✋🏽
+## Olá!!! Eu sou o Herbert Gabriel ✋🏽
 
 ### 🧑🏽‍💻 Sobre mim
 - 🎓 Já cursei e terminei o curso técnico de Informática no IFPI Campus Floriano de 2017 até 2021.
