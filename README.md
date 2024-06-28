@@ -1,13 +1,13 @@
 ## Olá!! Eu sou o Herbert Gabriel ✋🏽
 
-### Sobre mim
+### 🧑🏽‍💻 Sobre mim
 - 🎓 Já cursei e terminei o curso técnico de Informática no IFPI Campus Floriano de 2017 até 2021.
 
 - 📚 Atualmente, estou cursando o curso de TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) módulo 5/6 no IFPI Campus Floriano.
 
 - 💻 Atualmente focando em desenvolvimento Frontend Web.
 
-- 🧑🏽‍💻 Apaixonado por tecnologia, focando em criar interfaces de usuários, aplicações web, landing pages responsivas e modernas.
+- ❤️ Apaixonado por tecnologia, focando em criar interfaces de usuários, aplicações web, landing pages responsivas e modernas.
 
 - 📍 Floriano, Piauí, Brasil.
 
@@ -19,13 +19,25 @@
 </div>
 <br>
 
-### Redes Sociais
+### 📫 Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/herbertg1010/)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/herbertg__) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herbert-gabriel-989814157/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/herbertgabriel.alencar?locale=pt_BR)
-
+<div style="display: flex; gap: 12px;">
+    <a href="https://www.instagram.com/herbertg1010/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://x.com/herbertg__">
+        <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+    </a>
+    <a href="https://www.linkedin.com/in/herbert-gabriel-989814157/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.facebook.com/herbertgabriel.alencar?locale=pt_BR">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://discord.com/channels/@SEUUSERNAME/">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+</div>
 
 
 
