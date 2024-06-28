@@ -1,7 +1,7 @@
 ## Olá!!! Eu sou o Herbert Gabriel ✋🏽
-<div style="display: flex; justify-content: center; align-items: center">
-  <img src="front.avif" width="400">
-</div>
+
+<img src="front.avif" width="400">
+
 
 ### 🧑🏽‍💻 Sobre mim
 - 🎓 Já cursei e terminei o curso técnico de Informática no IFPI Campus Floriano de 2017 até 2021.
