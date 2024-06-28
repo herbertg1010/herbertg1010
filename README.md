@@ -21,7 +21,7 @@
 
 ### 📫 Redes Sociais
 
-<div style="display: flex; gap: 12px;">
+<div style="display: flex; gap: 13px;">
     <a href="https://www.instagram.com/herbertg1010/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
@@ -36,6 +36,9 @@
     </a>
     <a href="https://discord.com/users/hagage.">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="mailto:alencargabriel1010@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
 </div>
 
