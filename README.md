@@ -25,7 +25,7 @@
 
 
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 100px;">
     <a href="https://www.instagram.com/herbertg1010/">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
