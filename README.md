@@ -1,5 +1,5 @@
 ## Olá!!! Eu sou o Herbert Gabriel ✋🏽
-<div style="text-align: center;">
+<div style="margin: auto;">
   <img src="front.avif" width="400">
 </div>
 
