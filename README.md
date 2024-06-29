@@ -47,7 +47,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-![Herbert Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=herbertg1010&show_icons=true&theme=tokyonight)
+### 📊 Estatísticas do GitHub
+![Herbert Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=herbertg1010&show_icons=true&theme=tokyonight&locale=pt-br)
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertg1010&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertg1010&layout=compact&theme=tokyonight&locale=pt-br)
