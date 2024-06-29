@@ -14,7 +14,6 @@
 - 📍 Floriano, Piauí, Brasil.
 
 - 🎂 Tenho 22 anos de idade.
-<br>
 
 ### 📫 Redes Sociais
 
