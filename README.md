@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou o Herbert Gabriel ✋🏽
 
-<img src="front.avif" width="350">
+<img src="gato-no-pc.gif" width="300">
 
 ### 🧑🏽‍💻 Sobre mim
 - 🎓 Já cursei e terminei o curso técnico de Informática no IFPI Campus Floriano de 2017 até 2021.
@@ -14,11 +14,6 @@
 - 📍 Floriano, Piauí, Brasil.
 
 - 🎂 Tenho 22 anos de idade.
-<br>
-
-<br>
-<img src="dean.gif" width="240">
-
 <br>
 
 ### 📫 Redes Sociais
