@@ -46,7 +46,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ### 📊 Estatísticas do GitHub
 ![Herbert Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=herbertg1010&show_icons=true&theme=tokyonight&locale=pt-br)
 <br>
